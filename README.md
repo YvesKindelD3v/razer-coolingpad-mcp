@@ -1,6 +1,6 @@
 # razer-coolingpad-mcp
 
-> **Give your AI agent a physical presence.**  
+> **Make your AI agent's mood visible.**  
 > Emotions, states, and workflows — expressed through light and motion.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
